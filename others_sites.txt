@@ -1,0 +1,28 @@
+http://a2larm.cz,NEWS,News Media,2018-10-10,,
+https://www.aktualne.cz,NEWS,News Media,2018-10-10,,
+https://www.blesk.cz,NEWS,News Media,2018-10-10,,
+https://ct24.ceskatelevize.cz,NEWS,News Media,2018-10-10,,
+https://echo24.cz,NEWS,News Media,2018-10-10,,
+https://www.euro.cz,NEWS,News Media,2018-10-10,,
+https://hlidacipes.org,NEWS,News Media,2018-10-10,,
+https://www.idnes.cz,NEWS,News Media,2018-10-10,,
+https://ihned.cz,NEWS,News Media,2018-10-10,,
+https://www.irozhlas.cz,NEWS,News Media,2018-10-10,,
+https://www.lidovky.cz,NEWS,News Media,2018-10-10,,
+http://www.metro.cz,NEWS,News Media,2018-10-10,,
+https://www.novinky.cz,NEWS,News Media,2018-10-10,,
+https://www.sport.cz,NEWS,News Media,2018-10-10,,
+https://www.tyden.cz,NEWS,News Media,2018-10-10,,
+https://www.soom.cz,HACK,Hacking Tools,2018-10-10,,
+https://www.security-portal.cz,HACK,Hacking Tools,2018-10-10,,
+https://www.hellshare.cz,FILE,File-sharing,2018-10-10,,
+https://uloz.to,FILE,File-sharing,2018-10-10,,
+http://sdilej.cz,FILE,File-sharing,2018-10-10,,
+http://www.leteckaposta.cz,FILE,File-sharing,2018-10-10,,	
+https://www.seznam.cz,SRCH,Search Engines,2018-10-10,,
+https://cernorudaprirucka.noblogs.org,MILX,Terrorism and Militants,2018-10-10,,Manual how to make sabotage action against a government (related to anarchist movement)
+http://www.romea.cz,HUMR,Human Rights Issues,2018-10-10,,News related to Romani minority. 
+https://www.hatefree.cz,HUMR,Human Rights Issues,2018-10-10,,
+https://paragraphos.pecina.cz,HUMR,Human Rights Issues,2018-10-10,,Blog about Czech law
+https://antifenix.noblogs.org,POLR,Political Criticism,2018-10-10,,Web with Criticism of the Czech Police. Related to the case of prosecuted anarchists for attempting a terrorist attack.
+
