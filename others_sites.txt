@@ -18,10 +18,10 @@ https://www.security-portal.cz,HACK,Hacking Tools,2018-10-10,,
 https://www.hellshare.cz,FILE,File-sharing,2018-10-10,,
 https://uloz.to,FILE,File-sharing,2018-10-10,,
 http://sdilej.cz,FILE,File-sharing,2018-10-10,,
-http://www.leteckaposta.cz,FILE,File-sharing,2018-10-10,,	
+http://www.leteckaposta.cz,FILE,File-sharing,2018-10-10,,
 https://www.seznam.cz,SRCH,Search Engines,2018-10-10,,
 https://cernorudaprirucka.noblogs.org,MILX,Terrorism and Militants,2018-10-10,,Manual how to make sabotage action against a government (related to anarchist movement)
-http://www.romea.cz,HUMR,Human Rights Issues,2018-10-10,,News related to Romani minority. 
+http://www.romea.cz,HUMR,Human Rights Issues,2018-10-10,,News related to Romani minority.
 https://www.hatefree.cz,HUMR,Human Rights Issues,2018-10-10,,
 https://paragraphos.pecina.cz,HUMR,Human Rights Issues,2018-10-10,,Blog about Czech law
 https://antifenix.noblogs.org,POLR,Political Criticism,2018-10-10,,Web with Criticism of the Czech Police. Related to the case of prosecuted anarchists for attempting a terrorist attack.
