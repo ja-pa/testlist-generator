@@ -20,5 +20,5 @@ date_item=$(date +%Y-%m-%d)
 echo "url,category_code,category_description,date_added,source,notes">sk.csv
 while read p; do
   echo "$p"
-  echo "$p,,GMB,Gambling,$date_item,Financial Administration Slovak Republic,">>sk.csv
+  echo "$p,GMB,Gambling,$date_item,Financial Administration Slovak Republic,">>sk.csv
 done <url_list.txt
